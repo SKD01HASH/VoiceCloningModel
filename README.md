@@ -1,6 +1,6 @@
 ## Voice Cloning AI Model
 
-![Voice Cloning AI Model](insert_image_here)
+
 
 ### Table of Contents
 - [Overview](#overview)
@@ -71,4 +71,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Author
 Saswata Kumar Dash
 
-For more information and detailed instructions, please refer to the provided code snippets and the [GitHub repository](https://github.com/your_username/voice-cloning-ai-model).
+For more information and detailed instructions, please refer to the provided code snippets and the [GitHub repository](https://github.com/SKD01HASH/VoiceCloningModel/tree/main).
