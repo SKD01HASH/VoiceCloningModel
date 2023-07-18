@@ -1,5 +1,5 @@
 ## Voice Cloning AI Model
-To see the full explanation of the code [youtube link](https://youtu.be/WtOEjBtGqmI)
+To see the full explanation of the code [youtube link](https://youtu.be/L5YNPohALjU)
 To run the file with all datasets and other requirements: [Kaggle Link](https://www.kaggle.com/code/saswatakumardashskd/voice-cloning-model-by-saswata-kumar-dash)
 
 ### Table of Contents
